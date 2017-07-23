@@ -1,0 +1,23 @@
+Executable file name can be either listdir 
+
+Log file name can be either log.log or log.txt
+
+
+
+
+prints usage to terminal.
+
+run:
+
+./exe ece folderName
+
+content of log.txt:
+
+filename1:  [1,1]  ece  first character is found. 
+
+filename1:  [10,10] ece first character is found. 
+
+filename2:  [15,10] ece first character is found. 
+
+
+3 ece were found in total.

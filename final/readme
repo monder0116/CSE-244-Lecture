@@ -1,0 +1,4 @@
+compile with make file;
+-make
+"Usage= ./server colnumber rownumber portnumber poolsize\n");
+"Usage= ./server colnumber rownumber  portnumber\n");

@@ -1,0 +1,40 @@
+Executable file name can be grepSh
+
+Log file name can be log.txt
+
+
+Do not forget to provide usage utility:
+
+./grephSh
+
+prints usage to terminal.
+
+
+run:
+
+./grephSh ece folderName 
+
+
+content of log.txt:
+
+ProcessID - ThreadID filename1:  [1,1]  ece  first character is found. 
+
+ProcessID - ThreadID filename1:  [10,10] ece first character is found. 
+
+ProcessID - ThreadID filename2:  [15,10] ece first character is found. 
+
+3 ece were found in total.
+
+
+
+content of terminal screen
+
+Total number of strings found :           XX
+Number of directories searched:           XX
+Number of files searched:                 XX
+Number of lines searched:                 XX
+Number of cascade threads created:        XX
+Number of search threads created:         XX
+Max # of threads running concurrently:     XX
+Total run time, in milliseconds.          XX
+Exit condition:          (normal, due to error#, due to signal no#)     

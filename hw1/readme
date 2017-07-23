@@ -1,0 +1,24 @@
+make komutuyla derlendikten sonra list isimli executable dosya üretilecek
+
+Çalıştırma:
+
+./list string  <filename>
+
+Örnek:
+
+./list ece filename.txt
+
+filename.txt içeriği:
+
+..... ece  ce
+ce....
+
+Output:
+
+[1, 7] konumunda ilk karakter bulundu.
+
+[1, 9] konumunda ilk karakter bulundu.
+
+[1, 13] konumunda ilk karakter bulundu.
+
+3 adet ece bulundu.
